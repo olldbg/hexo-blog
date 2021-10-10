@@ -15,7 +15,7 @@ hexo.cmd d -g
 
 创建新文章:
 ```
-hexo.cmd new 'article name'
+hexo.cmd n 'article name'
 ```
 生成路径:
 source/_posts
